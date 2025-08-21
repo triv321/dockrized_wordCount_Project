@@ -41,8 +41,8 @@ To build and run this containerized application on a fresh system, you will need
 ### Installation Instructions
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/docker-wordcount.git](https://github.com/your-username/docker-wordcount.git)
-    cd docker-wordcount
+    git clone [https://github.com/your-username/docker-wordcount.git](https://github.com/triv321/dockerized_wordCount_Project.git)
+    cd dockerized_wordCount_Project
     ```
 
 2.  **Build the Docker image:**
